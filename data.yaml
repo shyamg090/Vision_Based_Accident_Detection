@@ -1,0 +1,6 @@
+train: C:\Users\tanus\Desktop\FP-2\data\train\images
+val: C:\Users\tanus\Desktop\FP-2\data\valid\images
+test: C:\Users\tanus\Desktop\FP-2\data\test\images
+
+nc: 1
+names: ['Accident']
